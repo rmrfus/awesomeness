@@ -1,5 +1,9 @@
 # Curated list of awesomeness
 
+## "Awesome" lists
+
+- https://github.com/chubin/awesome-console-services
+
 ## macOS Apps
 
 ### Alfred
