@@ -3,6 +3,7 @@
 ## "Awesome" lists
 
 - https://github.com/chubin/awesome-console-services
+- https://github.com/rothgar/awesome-tuis
 
 ## macOS Apps
 
